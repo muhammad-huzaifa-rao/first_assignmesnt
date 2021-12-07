@@ -1,0 +1,10 @@
+h1 {
+    color: blueviolet;
+}
+.one {
+    height: 500px;
+    width: 950px;
+    border: solid;
+    background-image: url(../img/1975985.jpg);
+    background-size: cover;
+}
